@@ -18,3 +18,9 @@ bit: 7 6 5 4 3 2 1 0 7 6 5 4 3 2 1 0
 // x: character number (0-26:@-Z)  
 //    @..0, A..1, B..2, ...  
 // y: Encoder value (0-99 or 0〜999)  
+
+## Files  
+8-rot-encode-i2c.pdf : schematic  
+8Encoder-7seg-I2C.csv : parts list  
+8Encoder-7seg-I2C.gbr.zip : gerber file  
+8Encoder-7seg-I2C.ino : Arduino source file (for ATtiny816)
