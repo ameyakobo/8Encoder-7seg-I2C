@@ -1,0 +1,15 @@
+Reference,Value
+C1-C4,1u (0603 size)
+D1-D8,OSL30251
+D9-D24,(as you like)
+J1,JST XH 4pin
+J2,(for debug)
+J3,(for debug)
+J4,JST ZH 4pin
+R1,10K
+"R2, R3",330 ohm
+SW1-SW8,ALPSÅ@EC12E* etc. (include Digit junk 614G)
+SW9-SW11,2P tact switch
+U1-U3,74HC238 (SOIC)
+"U5, U6, U11",TBD62083 (SOIC)
+U10,ATtiny816
